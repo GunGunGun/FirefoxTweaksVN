@@ -123,6 +123,9 @@ user_pref("browser.taskbar.lists.maxListItemCount", 0);
 user_pref("browser.taskbar.lists.tasks.enabled", false);
 user_pref("browser.taskbar.previews.max", 0);
 
+// Disable IPv6
+//user_pref("network.dns.disableIPv6", true);
+
 // Optimize rendering speed
 // https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-23570551
 // https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-27064564
